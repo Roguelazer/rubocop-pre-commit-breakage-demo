@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/instrumentl/robotstxt-parser.git
+  revision: 11ef2963a995585ab4ed7a98c7fd0bba0576a35e
+  ref: 11ef2963a995585ab4ed7a98c7fd0bba0576a35e
+  specs:
+    robotstxt-parser (0.1.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -51,6 +58,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  robotstxt-parser!
   standard (= 1.37.0)
 
 RUBY VERSION
