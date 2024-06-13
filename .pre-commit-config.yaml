@@ -1,0 +1,6 @@
+repos:
+- repo: https://github.com/rubocop/rubocop.git
+  rev: 'v1.64.1'
+  hooks:
+    - id: rubocop
+      additional_dependencies: ["standard:1.37.0"]
